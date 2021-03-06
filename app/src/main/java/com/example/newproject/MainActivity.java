@@ -5,7 +5,8 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
-
+    // this is local2ys.
+    // me too.
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         //hello test!
